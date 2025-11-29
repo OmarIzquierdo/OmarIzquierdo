@@ -1,6 +1,4 @@
 <div align="center">
-  <h3>Software Craftsman | Security Enthusiast</h3>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python&perline=10" />
   <br>
