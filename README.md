@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python&perline=10" />
   <br>
-  <img src="https://skillicons.dev/icons?i=,,visualstudio,rider,clion,pycharm&perline=10" />
+  <img src="https://skillicons.dev/icons?i=,,rider,clion,pycharm,visualstudio&perline=10" />
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&perline=10" />
   <br>
