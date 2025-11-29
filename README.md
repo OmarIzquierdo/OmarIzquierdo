@@ -1,6 +1,5 @@
 <div align="center">
-
-  <img width="1330" height="542" alt="image (1)" src="https://github.com/user-attachments/assets/ee6cc5bf-80b0-48d8-a127-dee76fd19b2f" />
+  <img width="1330" height="542" alt="image (2)" src="https://github.com/user-attachments/assets/50642b01-15af-4909-a1de-92114d9aeb28" />
 
   <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python&perline=10" />
   <img src="https://skillicons.dev/icons?i=rider,clion,pycharm,visualstudio&perline=10" />
