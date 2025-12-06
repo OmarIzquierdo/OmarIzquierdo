@@ -8,7 +8,7 @@
 
   <br>
   </br>
-  <a href="https://www.linkedin.com/in/omar-izquierdo-204387231/"><img src="https://img.shields.io/badge/LinkedIn-32D19B" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/omar-izquierdo-97531b263/"><img src="https://img.shields.io/badge/LinkedIn-32D19B" alt="LinkedIn"/></a>
   <a href="https://omarizquierdo.dev/"><img src="https://img.shields.io/badge/Portfolio-1EC5B5" alt="Portfolio"/></a>
   <a href="https://x.com/0x1_dev"><img src="https://img.shields.io/badge/0x1_dev-0AB8CE" alt="X"></a>
 </div>
